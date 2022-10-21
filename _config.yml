@@ -14,7 +14,7 @@ title                    : "Κατασκευή Συστημάτων Διάδρα
 title_separator          : "-"
 name                     : "pibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://invicta.team.human.computer.interaction.me"
+url                      : "https://invicta-team-project.netlify.app"
 baseurl                  : ""
 repository               : "Invicta-Ionian-Hci/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
