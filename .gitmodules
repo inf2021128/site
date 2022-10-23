@@ -1,0 +1,18 @@
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/inf2021128/_gallery
+[submodule "images"]
+	path = images
+	url = https://github.com/inf2021128/images
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/inf2021128/_quotes
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/inf2021128/bibliography
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/inf2021128/extras
+[submodule "_includes/text"]
+	path = _includes/text
+	url = https://github.com/inf2021128/text
